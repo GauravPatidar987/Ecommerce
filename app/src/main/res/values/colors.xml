@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="color_primary">#cba3d9</color>
+	<color name="color_primary_dark">#cba3d9</color>
+	<color name="price_bg_color">#369ba9</color>
+</resources>
